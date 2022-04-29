@@ -6,19 +6,23 @@
     "movies": [
       {
       "name": "Spider-man",
-      "Score": "10"
+      "score": "10",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjMyOTM4MDMxNV5BMl5BanBnXkFtZTcwNjIyNzExOA@@._V1_.jpg"
       },
       {
       "name": "Run Forest",
-      "Score": "10"
+      "score": "10",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTMxMjExNTU0NV5BMl5BanBnXkFtZTcwNzM2NDY3Mw@@._V1_.jpg"
       },
       {
-      "name": "Scream",
-      "Score": "10"
+      "name": "Home alone",
+      "Score": "10",
+      "image": "https://m.media-amazon.com/images/M/MV5BMzFkM2YwOTQtYzk2Mi00N2VlLWE3NTItN2YwNDg1YmY0ZDNmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg"
       },
       {
       "name": "Shawshank Redemption",
-      "Score": "10"
+      "Score": "10",
+      "image": "https://m.media-amazon.com/images/M/MV5BMDFkYTc0MGEtZmNhMC00ZDIzLWFmNTEtODM1ZmRlYWMwMWFmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_FMjpg_UX1000_.jpg"
       }
     ]
 }
