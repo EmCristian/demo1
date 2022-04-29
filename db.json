@@ -23,6 +23,27 @@
       "name": "Shawshank Redemption",
       "Score": "10",
       "image": "https://m.media-amazon.com/images/M/MV5BMDFkYTc0MGEtZmNhMC00ZDIzLWFmNTEtODM1ZmRlYWMwMWFmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_FMjpg_UX1000_.jpg"
+      },
+            {
+      "name": "Home alone",
+      "Score": "10",
+      "image": "https://m.media-amazon.com/images/M/MV5BMzFkM2YwOTQtYzk2Mi00N2VlLWE3NTItN2YwNDg1YmY0ZDNmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg"
+      },
+            {
+      "name": "Home alone",
+      "Score": "10",
+      "image": "https://m.media-amazon.com/images/M/MV5BMzFkM2YwOTQtYzk2Mi00N2VlLWE3NTItN2YwNDg1YmY0ZDNmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg"
+      },
+      {
+      "name": "Spider-man",
+      "score": "10",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjMyOTM4MDMxNV5BMl5BanBnXkFtZTcwNjIyNzExOA@@._V1_.jpg"
+      },
+      {
+      "name": "Run Forest",
+      "score": "10",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTMxMjExNTU0NV5BMl5BanBnXkFtZTcwNzM2NDY3Mw@@._V1_.jpg"
       }
+      
     ]
 }
